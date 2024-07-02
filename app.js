@@ -1021,9 +1021,9 @@ const projects = [
     {
         title: "A Portfolio Website",
         descr: "A showcase of my work and some information about me, converted into an elegantly designed static website. Comes in 2 color themes and has lots of animations without any dependence on 3rd party libraries.",
-        image: "https://github.com/prince-132/My-Portfolio/blob/main/Screenshot%202024-02-09%20225843.png?raw=true",
+        image: "https://github.com/Piyushkumarj/Portfolio/blob/main/Screenshot%202024-07-02%20123832.png?raw=true",
         // link: "https://abhik002.github.io/",
-        github: "https://github.com/prince-132/My-Portfolio",
+        github: "https://github.com/Piyushkumarj",
         techstack: ["HTML", "CSS", "JavaScript"],
         disabled: false,
         specialDisabled: true
@@ -1136,17 +1136,17 @@ highlightNavLink();
 const profileLinks = [
     {
         name: 'GitHub',
-        link: "https://github.com/prince-132",
+        link: "https://github.com/Piyushkumarj",
         svg: `<svg width="32" height="32" aria-hidden="true" data-view-component="true" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><g><ellipse cx="8" cy="7.9819" rx="7.8607" ry="7.8429" display="none" fill="#fff" stroke-width=".51966"/><path d="m8 0c-4.42 0-8 3.58-8 8 0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27s1.36 0.09 2 0.27c1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38a8.013 8.013 0 0 0 5.45-7.59c0-4.42-3.58-8-8-8z" display="none" fill-rule="evenodd"/><path d="m8 0c-4.42 0-8 3.58-8 8 0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27s1.36 0.09 2 0.27c1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38a8.013 8.013 0 0 0 5.45-7.59c0-4.42-3.58-8-8-8z" fill="#fff" fill-rule="evenodd"/></g></svg>`
     },
     {
         name: 'Leetcode',
-        link: "https://leetcode.com/Gyanendra_23/",
+        link: "https://leetcode.com/u/PIYUSH_JAISWAL12345/",
         svg: ``
     },
     {
         name: 'Hackerrank',
-        link: "https://www.hackerrank.com/profile/gyanendranathsh1",
+        link: "https://www.hackerrank.com/profile/pkj23112001",
         svg: ``
     }
 ]
@@ -1154,17 +1154,17 @@ const profileLinks = [
 const contactLinks = [
     {
         name: 'Email',
-        link: "mailto:gyanendranathshukla4035@gmail.com",
+        link: "mailto:pkj23112001@gmail.com",
         svg: ``
     },
     {
         name: 'LinkedIn',
-        link: "https://www.linkedin.com/in/gyanendra-sde/",
+        link: "https://www.linkedin.com/in/piyush-jaiswal-0484b91b5/",
         svg: `<svg width="32" height="32" data-supported-dps="24x24" focusable="false" version="1.1" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><rect x="2.4478" y="2.5373" width="14.836" height="14.806" display="none" fill="#fff" stroke-width=".87887"/><path d="m18.5 0h-17a1.5 1.5 0 0 0-1.5 1.5v17a1.5 1.5 0 0 0 1.5 1.5h17a1.5 1.5 0 0 0 1.5-1.5v-17a1.5 1.5 0 0 0-1.5-1.5zm-12.5 17h-3v-9h3zm-1.5-10.75a1.75 1.75 0 1 1 1.8-1.75 1.78 1.78 0 0 1-1.8 1.75zm12.5 10.75h-3v-4.74c0-1.42-0.6-1.93-1.38-1.93a1.74 1.74 0 0 0-1.62 1.86 0.66 0.66 0 0 0 0 0.14v4.67h-3v-9h2.9v1.3a3.11 3.11 0 0 1 2.7-1.4c1.55 0 3.36 0.86 3.36 3.66z" display="none" fill="#004e9c"/><path d="m18.5 0h-17a1.5 1.5 0 0 0-1.5 1.5v17a1.5 1.5 0 0 0 1.5 1.5h17a1.5 1.5 0 0 0 1.5-1.5v-17a1.5 1.5 0 0 0-1.5-1.5zm-12.5 17h-3v-9h3zm-1.5-10.75a1.75 1.75 0 1 1 1.8-1.75 1.78 1.78 0 0 1-1.8 1.75zm12.5 10.75h-3v-4.74c0-1.42-0.6-1.93-1.38-1.93a1.74 1.74 0 0 0-1.62 1.86 0.66 0.66 0 0 0 0 0.14v4.67h-3v-9h2.9v1.3a3.11 3.11 0 0 1 2.7-1.4c1.55 0 3.36 0.86 3.36 3.66z" fill="#fff"/></svg>`
     },
     {
         name: "Instagram",
-        link: "https://www.instagram.com/mr_princeshukla/",
+        link: "https://www.instagram.com/piyushjaiswal_23/",
         svg: `<svg width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg"><g fill="#fff"><path d="m2.4107 0c-1.3354 0-2.4107 1.0098-2.4107 2.2639v3.9388c0 1.2542 1.0753 2.264 2.4107 2.264h3.6453c1.3354 0 2.4107-1.0098 2.4107-2.264v-3.9388c0-1.2542-1.0753-2.2639-2.4107-2.2639zm0.35037 0.81442h2.9445c1.0784 0 1.9467 0.81546 1.9467 1.8283v3.1812c0 1.0129-0.86821 1.8283-1.9467 1.8283h-2.9445c-1.0784 0-1.9467-0.81546-1.9467-1.8283v-3.1812c0-1.0128 0.86821-1.8283 1.9467-1.8283z" stroke-width=".26458"/><path d="m4.2337 2.07c-1.199 0-2.1642 0.9653-2.1642 2.1643s0.96529 2.1641 2.1642 2.1641 2.1641-0.96517 2.1641-2.1641c0-1.199-0.96516-2.1643-2.1641-2.1643zm0 0.83733c0.73513 0 1.3269 0.5918 1.3269 1.3269 0 0.73512-0.5918 1.3269-1.3269 1.3269-0.73513 0-1.3271-0.5918-1.3271-1.3269 0-0.73513 0.59192-1.3269 1.3271-1.3269z" stroke-width=".13526"/><circle cx="6.4747" cy="2.07" r=".53756" stroke-width=".26458"/></g></svg>`
     }
 ]
