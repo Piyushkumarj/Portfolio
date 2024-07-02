@@ -1021,9 +1021,9 @@ const projects = [
     {
         title: "A Portfolio Website",
         descr: "A showcase of my work and some information about me, converted into an elegantly designed static website. Comes in 2 color themes and has lots of animations without any dependence on 3rd party libraries.",
-        image: "https://github.com/prince-132/My-Portfolio/blob/main/Screenshot%202024-02-09%20225843.png?raw=true",
+        image: "https://github.com/Piyushkumarj/Portfolio/blob/main/Screenshot%202024-07-02%20123832.png?raw=true",
         // link: "https://abhik002.github.io/",
-        github: "https://github.com/prince-132/My-Portfolio",
+        github: "https://github.com/Piyushkumarj/Portfolio",
         techstack: ["HTML", "CSS", "JavaScript"],
         disabled: false,
         specialDisabled: true
